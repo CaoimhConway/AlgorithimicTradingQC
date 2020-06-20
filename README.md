@@ -14,5 +14,5 @@ This strategy considers 5 ETFs (SPY – US stocks, EFA – foreign stocks, BND �
 ### All Weather Portfolio 
 [Backtest and Report](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_1bb306edc363c0c80b9580744d8dfc26.html)
 
-The "All Weather" Portfolio, popularized by hedge fund Ray Dalio, is designed to minimize drawdowns through financial downturns. It is composed of 40% long-term bonds, 30% stocks, 15% intermediate-term bonds, 7.5% gold, and 7.5% commodities. The portfolio rebalances itself to these levels once a year. This strategy has a CAGR of 9.2%, a max drawdown of 21.7%, and a Sharpe ratio of .88.
+The "All Weather" Portfolio, popularized by hedge fund manager Ray Dalio, is designed to minimize drawdowns through financial downturns. It is composed of 40% long-term bonds, 30% stocks, 15% intermediate-term bonds, 7.5% gold, and 7.5% commodities. The portfolio rebalances itself to these levels once a year. This strategy has a CAGR of 9.2%, a max drawdown of 21.7%, and a Sharpe ratio of .88.
 
