@@ -8,7 +8,7 @@ This is a collection of algorithims created in **Python** created in order to re
 ### Asset Class Momentum
 [Backtest and Report](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_434dbef842cee46850dbfba07cc4534d.html)
 
-This strategy considers 5 ETFs (SPY – US stocks, EFA – foreign stocks, BND – bonds, VNQ – REITs, GSG – commodities). It then picks 3 ETFs with the strongest 12-month momentum, weighting them equally, and rebalances once a month. This strategy has a CAGR of 9.8%, a max drawdown of 70.5%, and a Sharpe ratio of .49.
+This strategy considers 5 ETFs (SPY – US stocks, EFA – foreign stocks, BND – bonds, VNQ – REITs, GSG – commodities). It picks the 3 ETFs with the strongest 12-month momentum, weighting them equally, and rebalances once a month. This strategy has a CAGR of 9.8%, a max drawdown of 70.5%, and a Sharpe ratio of .49.
 
 
 ### All Weather Portfolio 
